@@ -2,8 +2,8 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:
+url: http://ancient-rivals.com/
+#baseurl:
 
 redcarpet:
   extensions: [strikethrough, tables]

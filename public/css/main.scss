@@ -21,10 +21,11 @@ $avocado-accent-color: #568203;
 body {
   background-color: $site-background-color;
   border-top: 5px solid $contrast-color;
-  font-family: 'Source Sans Pro', sans-serif;
+  /*font-family: "Crimson Text", "Book Antiqua", Palatino, serif;*/
+  font-family: Georgia, sans-serif;
   color: $contrast-color;
   font-weight: 400;
-  line-height: 1.5;
+  /*line-height: 1.5;*/
 
   -webkit-font-smoothing: antialiased;
 }
@@ -197,7 +198,7 @@ footer {
 }
 
 .single {
-  font-size: 1.125rem;
+  font-size: 1.2rem;
   line-height: 28px;
 }
 
