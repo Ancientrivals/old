@@ -22,6 +22,6 @@ title: Тестовый пост 2
 
 И наконец выкладываем **видео**-нарезку с нескольких уровней из игры. Здесь можно взглянуть на одного из героев, доступных игроку, и простого противника. Обращаем внимание, что в ролике представлена пре-альфа версия: многое отсутствует, многое будет улучшаться :)
 
-< iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=Som6Lx9_Gfs" frameborder="0" allowfullscreen>< /iframe>
+<iframe width="500" height="340" src="http://www.youtube.com/embed/Som6Lx9_Gfs" frameborder="0" allowfullscreen></iframe>
 
 Кстати, вы можете подписаться на наш [Твиттер](https://twitter.com/AncientRivals) (ведётся на английском языке)!
