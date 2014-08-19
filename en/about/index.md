@@ -1,6 +1,6 @@
 ---
-layout: ru_page
+layout: page
 title: About
 ---
 
-Нещево тут нет
+Nothing here yet
