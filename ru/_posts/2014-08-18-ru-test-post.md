@@ -1,0 +1,6 @@
+---
+layout: ru_post
+title: Тестовый пост
+---
+
+![keanu](http://media.lunch.com/d/d7/517793.jpg)
