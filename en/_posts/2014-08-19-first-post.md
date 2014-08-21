@@ -22,4 +22,4 @@ Finally, here comes our first **video** where we show a couple of levels and one
 
 <iframe width="500" height="340" src="http://www.youtube.com/embed/wjHiE7Cwb90" frameborder="0" allowfullscreen></iframe>
 
-And don't forget to check us on [Twitter](https://twitter.com/AncientRivals)! :)
+And don't forget to check us on [Twitter](https://twitter.com/AncientRivals)!

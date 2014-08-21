@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
+title: Blog
 ---
 
 <section class="archive">
 {% for post in site.posts %}
-{%if post.categories contains 'en' %} 
-{% unless post.next %}
 
+{% unless post.next %}
 {% unless forloop.first %}</div></div>{% endunless %}
 
   <div class="bundle row gutters fadeInDown animated">
@@ -27,14 +26,15 @@ title: Home
 {% endif %}
 {% endunless %}
 
+{% if post.categories contains 'en' %}
+
   <article class="row gutters">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
     <div class="post-date col span_4">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B" }}</time>
     </div>
   </article>
-
-{% if forloop.last %}</div></div>{% endif %}
 {% endif %}
+{% if forloop.last %}</div></div>{% endif %}
 {% endfor %}
 </section>

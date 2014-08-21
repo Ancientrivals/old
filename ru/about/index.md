@@ -1,6 +1,6 @@
 ---
 layout: ru_page
-title: About
+title: Эбоут
 ---
 
 Страница в разработке.

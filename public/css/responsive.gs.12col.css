@@ -39,7 +39,9 @@
 
 /* 	DEFAULT ROW STYLES 
 	Set bottom padding according to preference */
-.row { padding-bottom: 0em;
+.row { 
+	padding-bottom: 0em;
+	font-size: 1.3rem;	
 }
 			
 								  
@@ -58,6 +60,7 @@
 	
 	.gutters .col:first-child { 
 		margin-left: 0; 
+		font-size: 1.2rem;
 	}
 }
 
