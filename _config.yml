@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: null
+highlighter: pygments
 permalink: /:title
 
 url: http://ancient-rivals.com/
@@ -11,5 +11,3 @@ redcarpet:
 sass:
   sass_dir: public/css
   style: :compressed
-  
- highlighter: pygments
