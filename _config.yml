@@ -1,12 +1,12 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title
 
 url: http://ancient-rivals.com/
 #baseurl:
 
-redcarpet:
-  extensions: [strikethrough, tables]
+#redcarpet:
+#  extensions: [strikethrough, tables]
 
 sass:
   sass_dir: public/css
