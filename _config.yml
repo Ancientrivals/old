@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: null
 permalink: /:title
 
 url: http://ancient-rivals.com/
