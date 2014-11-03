@@ -1,10 +1,10 @@
 ---
-layout: ru_post
+layout: en_post
 title: Unity - coroutines demystified
 ---
 Coroutines in Unity may seem to be a bit of a miracle, few know how they really work and what they look like from inside.
 
-### Understanding `IEnumerator`
+### Understanding IEnumerator
 
 As you could guess, coroutines work with a bit of a help of `IEnumerator` interface and CLR enumeration implementation,
 so we should first understand how these things work.
