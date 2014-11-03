@@ -19,7 +19,7 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-coderay:
+  coderay:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
