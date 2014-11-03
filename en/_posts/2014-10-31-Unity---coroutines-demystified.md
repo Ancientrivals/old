@@ -1,5 +1,5 @@
 ---
-layout: en_post
+layout: post
 title: Unity - coroutines demystified
 ---
 Coroutines in Unity may seem to be a bit of a miracle, few know how they really work and what they look like from inside.
