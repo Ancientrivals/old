@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: null
 permalink: /:title
 
-#url: http://ancient-rivals.com/
+url: http://ancient-rivals.com/
 #baseurl:
 
 #redcarpet:
