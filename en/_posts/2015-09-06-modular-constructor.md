@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Creation of a Modular Level Constructor
 ---
