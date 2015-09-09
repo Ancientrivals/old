@@ -1,6 +1,6 @@
 ---
 layout: ru_post
-title: Video with updated Hero
+title: Video and GIFs with updated Hero
 ---
 
 Usually we post on Mondays, but we are too excited to wait to share this update on 3d-animation in our game. But first, GUI effects test:
