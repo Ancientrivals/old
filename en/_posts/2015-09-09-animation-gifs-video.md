@@ -24,4 +24,4 @@ Here you can see how we test combo of three consequential attacks.
 While it isn't implemented in-game yet, we are testing "charged" attack: at first the hero takes some time to charge powerful attack and the unleashes massive area of effect damage :)
 
 ![Alt text](http://i.imgur.com/mRDWUQn.gif)
-I would like to remind that you can follow our news on [Twitter'е](https://twitter.com/AncientRivals).
+I would like to remind that you can follow our news on [Twitter](https://twitter.com/AncientRivals).
