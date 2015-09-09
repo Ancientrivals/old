@@ -12,7 +12,7 @@ We don't have an artist in the team (we both are mostly tech guys), so we have d
 <iframe width="500" height="340" src="http://www.youtube.com/embed/9FWFOr1Y3jg" frameborder="0" allowfullscreen></iframe>
 
 We havent worked with root motion animation before, but it looks really good. Check this prototype Run animation that consists of three stages: start running, run cycle and slow down / stop animation.
-You might notice that the character's leg at the beginnng and end of run cycle end up at the very position of where the must be at combat idle animation.
+You might notice that the character's legs at the beginnng and end of run cycle end up at the very position of where the must be at combat idle animation.
 
 ![Alt text](http://i.imgur.com/nC4QnwP.gif)
 
