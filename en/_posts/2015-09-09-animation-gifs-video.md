@@ -1,5 +1,5 @@
 ---
-layout: ru_post
+layout: post
 title: Video and GIFs with updated Hero
 ---
 
