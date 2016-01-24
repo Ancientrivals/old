@@ -3,7 +3,7 @@ layout: post
 title: On keeping Unity project clean
 ---
 
-ВIn game development there are lots of little things that can cause lots of problems if they get out of hand. In this little article I’ll share some thoughts on how to keep your Unity (or any other, really) project clean. During my (Artem, project coordinator and technical artist speaking) days doing freelance I’ve seeт numerous projects and how they organize their files. It might seem like something of very little importance, but it does matter.
+In game development there are lots of little things that can cause lots of problems if they get out of hand. In this little article I’ll share some thoughts on how to keep your Unity (or any other, really) project clean. During my (Artem, project coordinator and technical artist speaking) days doing freelance I’ve seeт numerous projects and how they organize their files. It might seem like something of very little importance, but it does matter.
 
 When working with Unity, it is common to use assets from their Store once in a while. You might want to import some models for prototyping or maybe a plugin to help you with in-app purchases. Anyway, all those unitypackages get decompressed and extracted straight into your project’s root folder. I’ve seen numerous times projects with dozens of such folders creeping out of control, making it hard to navigate around. By the time real problems arise, the projects becomes too big and it is kind of scary to move all those folders, because you can easily break something.
 
